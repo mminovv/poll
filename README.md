@@ -4,8 +4,10 @@
 Configuration is stored in `.env`, for examples see `.env.examples`
 
 ## Installing on a local machine
-This project requires python3.9 and sqlite.
-Create and activate your virtual environment
+* This project requires python3.9 and sqlite.
+* Create and activate your virtual environment
+* Docs(swagger) on http://127.0.0.1:8000/docs/ # local environment
+
 
 Install requirements:
 
